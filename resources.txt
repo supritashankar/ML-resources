@@ -1,0 +1,3 @@
+http://fr.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees
+Machine Learning excercises in Python - http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
+Machine Learning is way easier than it looks https://blog.intercom.com/machine-learning-way-easier-than-it-looks/
